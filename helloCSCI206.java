@@ -1,5 +1,5 @@
 /*
-Author: Scott Schweizer
+Author: Paul Lynch
 Course: CSCI-206
 Assignment: 0
 */
